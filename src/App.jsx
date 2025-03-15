@@ -306,7 +306,7 @@ const TamilTypingTest = () => {
     setGameComplete(false);
     setLevelCompleted(false);
     setTimeLeft(180);
-    setCurrentLevel(1);
+    setCurrentLevel(4);
     setCurrentItemIndex(0);
     setCorrectKeysPressed(0);
     setErrorCount(0);
@@ -337,7 +337,7 @@ const TamilTypingTest = () => {
     setLevelMetrics(null);
     setCorrectKeysPressed(0);
     setErrorCount(0);
-    setTimeLeft(60);
+    setTimeLeft(18n0);
     setCurrentItemIndex(0);
     inputRef.current?.focus();
   };
