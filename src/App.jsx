@@ -337,7 +337,7 @@ const TamilTypingTest = () => {
     setLevelMetrics(null);
     setCorrectKeysPressed(0);
     setErrorCount(0);
-    setTimeLeft(18n0);
+    setTimeLeft(180);
     setCurrentItemIndex(0);
     inputRef.current?.focus();
   };
